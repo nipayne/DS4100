@@ -11,3 +11,6 @@ This project attempts to explore crime statistic data published yearly by the NY
 - Can the time that it takes for a victim to report a crime be predicted based on specific variables?
 
 - Can crime statistics be forecasted?
+
+
+A video walkthrough of the results can be found here: https://youtu.be/z2W3QmReRpw
