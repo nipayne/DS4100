@@ -1,6 +1,6 @@
 # Fall 2018 DS4100 Final Project
 
-This project attempts to explore crime statistic data published yearly by the NYPD.  See the attached .rmd file for the full report, but, in summary, it attempts to answer the following questions:
+This project attempts to explore crime statistic data published yearly by the NYPD.  See the attached .rmd and .pdf files for the full report, but, in summary, it attempts to answer the following questions:
 
 - Is there a borough that contains a higher perctage of a specific crime?
 
